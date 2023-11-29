@@ -1,0 +1,21 @@
+{
+  "name": "express-progressbar",
+  "version": "2.0.0",
+  "description": "Simple progress bar",
+  "main": "Progress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jantje19/SideProjects/tree/master/NodeProgressBar"
+  },
+  "devDependencies": {
+    "express": "^4.14.0"
+  },
+  "keywords": [
+    "ProgressBar"
+  ],
+  "author": "Jantje19",
+  "license": "MIT"
+}

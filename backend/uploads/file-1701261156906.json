@@ -1,0 +1,6732 @@
+[{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143fa"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "171-9465212-3993954",
+  "client_order_id": "3ac5d5a0-3000-dadf-01ab-a186efb17425",
+  "client_service_asin": "B07GBRR3KC",
+  "order_name": "Furniture Assembly Service - Small",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "171-0102642-4872340",
+  "model_code": "B08FV2DZLQ",
+  "order_quantity": "1",
+  "product_delivery_status": "NotDelivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Thu Nov 09 05:30:00 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "6718",
+    "pincode": "560087"
+  },
+  "customer_city": "BENGALURU",
+  "customer_locality": "Bangalore East 3_CA_City",
+  "client_cx_id": "8247167425",
+  "order_remarks": "--",
+  "customer_name": "Sonakshi Sharma",
+  "client_sku_id": "fda97b0b7b00e91ddccf2691ec039362",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.795Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141b5"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "199",
+    "name": "Furniture Installation - Small",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "335",
+    "name": "TABLE",
+    "code": "B08FV2DZLQ"
+  },
+  "product": {
+    "id": "468",
+    "name": "TABLE",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "438",
+    "name": "Amazon Brand - Solimo|Amazon Brand - Solimo"
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "166",
+    "name": "Karnataka"
+  },
+  "district": {
+    "id": "810",
+    "name": "Bangalore"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.802Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.802Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "BENGALURU",
+    "id": "8247167425",
+    "name": "Sonakshi Sharma",
+    "pincode": {
+      "id": "6718",
+      "pincode": "560087"
+    },
+    "locality": "Bangalore East 3_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.802Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.802Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28936",
+  "technician": {
+    "id": "1589",
+    "name": "D Srinivasulu Hyd Crpt",
+    "mobile": "9919913398",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "AEKUQEHQVVKBN",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:33.575Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "1589",
+      "name": "D Srinivasulu Hyd Crpt",
+      "mobile": "9919913398",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "AEKUQEHQVVKBN",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:33.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143f9"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "408-6635254-4081915",
+  "client_order_id": "90c5d5b0-f8c0-9990-a14d-c641c45f9c60",
+  "client_service_asin": "B0CJ9LLZBC",
+  "order_name": "Storage Shelf Installation service",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "404-2131841-6331516",
+  "model_code": "B08YJQMPXF",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Mon Nov 06 18:45:12 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "4597",
+    "pincode": "110007"
+  },
+  "customer_city": "NEW DELHI",
+  "customer_locality": "Delhi North 1_CA_City",
+  "client_cx_id": "9618956535",
+  "order_remarks": "--",
+  "customer_name": "Swami Ananda Shreyas",
+  "client_sku_id": "056dd6af51bc2ef1e3586fe46328fda3",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.771Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141b4"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "276",
+    "name": "Storage Shelf Installation service",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "948",
+    "name": "SHELF",
+    "code": "B08YJQMPXF"
+  },
+  "product": {
+    "id": "465",
+    "name": "SHELF",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "513",
+    "name": "Furniture Cafe"
+  },
+  "zone": {
+    "id": "68",
+    "name": "North"
+  },
+  "state": {
+    "id": "67",
+    "name": "Delhi"
+  },
+  "district": {
+    "id": "702",
+    "name": "North Delhi"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.779Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.779Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "NEW DELHI",
+    "id": "9618956535",
+    "name": "Swami Ananda Shreyas",
+    "pincode": {
+      "id": "4597",
+      "pincode": "110007"
+    },
+    "locality": "Delhi North 1_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.779Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.779Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28935",
+  "technician": {
+    "id": "224",
+    "name": "Abdullah ",
+    "mobile": "8510960946",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "A3OITOK3A83U19",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:33.695Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "224",
+      "name": "Abdullah ",
+      "mobile": "8510960946",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "A3OITOK3A83U19",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:33.695Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143f8"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "404-4574646-3186714",
+  "client_order_id": "c4c5d5c2-6592-95fa-72ba-2dc8d7a75d40",
+  "client_service_asin": "B07GBS9Y1S",
+  "order_name": "Furniture Assembly Service - Large",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "--",
+  "model_code": "--",
+  "order_quantity": "--",
+  "product_delivery_status": "--",
+  "model_serial_number": "--",
+  "product_delivery_estimated_sate": "--",
+  "model_serial_no": "--",
+  "model_serial_no_type": "--",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "9805",
+    "pincode": "452020"
+  },
+  "customer_city": "INDORE",
+  "customer_locality": "Indore_CA_City",
+  "client_cx_id": "20263345925",
+  "order_remarks": "--",
+  "customer_name": "Vivek mehta",
+  "client_sku_id": "bf3acdd90fc7c44cd0539f0d12232641",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.749Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141b3"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "201",
+    "name": "Furniture Installation - Large",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "--"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "3",
+    "name": "West"
+  },
+  "state": {
+    "id": "314",
+    "name": "Madhya Pradesh"
+  },
+  "district": {
+    "id": "889",
+    "name": "Indore"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.757Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.757Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "INDORE",
+    "id": "20263345925",
+    "name": "Vivek mehta",
+    "pincode": {
+      "id": "9805",
+      "pincode": "452020"
+    },
+    "locality": "Indore_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.757Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.757Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28934",
+  "technician": {
+    "id": "527",
+    "name": "Hemant ",
+    "mobile": "7909793639",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "A1XO8BBXY7YUPJ",
+    "radius": 25,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:33.891Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "527",
+      "name": "Hemant ",
+      "mobile": "7909793639",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "A1XO8BBXY7YUPJ",
+      "radius": 25,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:33.891Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143f7"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "171-6460880-3629960",
+  "client_order_id": "3cc5d5e1-5874-8487-520d-28da3efdd5ee",
+  "client_service_asin": "B07GBS9Y1S",
+  "order_name": "Furniture Assembly Service - Large",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "171-5468981-8341906",
+  "model_code": "B07LC9HXSF",
+  "order_quantity": "1",
+  "product_delivery_status": "NotDelivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Thu Nov 09 05:30:00 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "6729",
+    "pincode": "560032"
+  },
+  "customer_city": "Bengaluru",
+  "customer_locality": "Bangalore North 1_CA_City",
+  "client_cx_id": "9087881125",
+  "order_remarks": "--",
+  "customer_name": "chetan",
+  "client_sku_id": "bf3acdd90fc7c44cd0539f0d12232641",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.672Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141b2"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "201",
+    "name": "Furniture Installation - Large",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "359",
+    "name": "MAKEUP_VANITY",
+    "code": "B07LC9HXSF"
+  },
+  "product": {
+    "id": "475",
+    "name": "MAKEUP_VANITY",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "438",
+    "name": "Amazon Brand - Solimo|Amazon Brand - Solimo"
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "166",
+    "name": "Karnataka"
+  },
+  "district": {
+    "id": "810",
+    "name": "Bangalore"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.734Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.734Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "Bengaluru",
+    "id": "9087881125",
+    "name": "chetan",
+    "pincode": {
+      "id": "6729",
+      "pincode": "560032"
+    },
+    "locality": "Bangalore North 1_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.734Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.734Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28933",
+  "technician": {
+    "id": "934",
+    "name": "Raju Kumar ",
+    "mobile": "8894888239",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "ALHM577B0N1B6",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:34.019Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "934",
+      "name": "Raju Kumar ",
+      "mobile": "8894888239",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "ALHM577B0N1B6",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:34.019Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143f6"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "407-6340600-4681148",
+  "client_order_id": "2ac5d664-2708-1eae-db84-c05df24eee7f",
+  "client_service_asin": "B07GBS9Y1S",
+  "order_name": "Furniture Assembly Service - Large",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "403-7982784-6657126",
+  "model_code": "B07L795L8D",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Wed Nov 08 09:27:29 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "6740",
+    "pincode": "560004"
+  },
+  "customer_city": "BENGALURU",
+  "customer_locality": "Bangalore West 1_CA_City",
+  "client_cx_id": "11760584635",
+  "order_remarks": "--",
+  "customer_name": "NAMAN",
+  "client_sku_id": "bf3acdd90fc7c44cd0539f0d12232641",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.649Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141b1"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "201",
+    "name": "Furniture Installation - Large",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "4681",
+    "name": "CABINET",
+    "code": "B07L795L8D"
+  },
+  "product": {
+    "id": "463",
+    "name": "CABINET",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "469",
+    "name": "HomeTown"
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "166",
+    "name": "Karnataka"
+  },
+  "district": {
+    "id": "810",
+    "name": "Bangalore"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.657Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.657Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "BENGALURU",
+    "id": "11760584635",
+    "name": "NAMAN",
+    "pincode": {
+      "id": "6740",
+      "pincode": "560004"
+    },
+    "locality": "Bangalore West 1_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.657Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.657Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28932",
+  "technician": {
+    "id": "934",
+    "name": "Raju Kumar ",
+    "mobile": "8894888239",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "ALHM577B0N1B6",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:34.193Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "934",
+      "name": "Raju Kumar ",
+      "mobile": "8894888239",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "ALHM577B0N1B6",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:34.193Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143f5"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "404-7789222-7673925",
+  "client_order_id": "2ac5d666-f56d-e34b-3bb4-2d9330624453",
+  "client_service_asin": "B0BXSX2KBP",
+  "order_name": "Furniture Assembly Service - Large (PP)",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "18:00:00",
+  "client_product_order_id": "--",
+  "model_code": "--",
+  "order_quantity": "--",
+  "product_delivery_status": "--",
+  "model_serial_number": "--",
+  "product_delivery_estimated_sate": "--",
+  "model_serial_no": "--",
+  "model_serial_no_type": "--",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "19198",
+    "pincode": "441302"
+  },
+  "customer_city": "KATOL",
+  "customer_locality": "Nagpur_CA_Peripheral",
+  "client_cx_id": "34427523112",
+  "order_remarks": "--",
+  "customer_name": "Prajanya charde",
+  "client_sku_id": "abfe47fafcf8252a62458cbfff89180d",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.603Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141b0"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "201",
+    "name": "Furniture Installation - Large",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "--"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "3",
+    "name": "West"
+  },
+  "state": {
+    "id": "233",
+    "name": "Maharashtra"
+  },
+  "district": {
+    "id": "1124",
+    "name": "Nagpur"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.634Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.634Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "KATOL",
+    "id": "34427523112",
+    "name": "Prajanya charde",
+    "pincode": {
+      "id": "19198",
+      "pincode": "441302"
+    },
+    "locality": "Nagpur_CA_Peripheral",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.634Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.634Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28931",
+  "technician": {
+    "status": "Not Found",
+    "radius": 35,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:34.445Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    }
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "status": "Not Found",
+      "radius": 35,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:34.445Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143f4"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "403-6506796-2358751",
+  "client_order_id": "3cc5d680-7eee-3838-3eef-8684c642c80e",
+  "client_service_asin": "B0CJ9LLZBC",
+  "order_name": "Storage Shelf Installation service",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "171-9826617-6162716",
+  "model_code": "B08YJQMPXF",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Tue Nov 07 18:27:04 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "4663",
+    "pincode": "380058"
+  },
+  "customer_city": "AHMEDABAD",
+  "customer_locality": "Ahmedabad West 2_CA_City",
+  "client_cx_id": "2.49E+11",
+  "order_remarks": "--",
+  "customer_name": "Rushin Vora",
+  "client_sku_id": "056dd6af51bc2ef1e3586fe46328fda3",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.579Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141af"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "276",
+    "name": "Storage Shelf Installation service",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "948",
+    "name": "SHELF",
+    "code": "B08YJQMPXF"
+  },
+  "product": {
+    "id": "465",
+    "name": "SHELF",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "513",
+    "name": "Furniture Cafe"
+  },
+  "zone": {
+    "id": "3",
+    "name": "West"
+  },
+  "state": {
+    "id": "308",
+    "name": "Gujarat"
+  },
+  "district": {
+    "id": "708",
+    "name": "Ahmedabad"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.588Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.588Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "AHMEDABAD",
+    "id": "2.49E+11",
+    "name": "Rushin Vora",
+    "pincode": {
+      "id": "4663",
+      "pincode": "380058"
+    },
+    "locality": "Ahmedabad West 2_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.588Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.588Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28930",
+  "technician": {
+    "id": "1528",
+    "name": "AHMD Rahul Solanki CYC",
+    "mobile": "9173715010",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "A6Z4DUZQ7EASI",
+    "radius": 25,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:34.627Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "1528",
+      "name": "AHMD Rahul Solanki CYC",
+      "mobile": "9173715010",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "A6Z4DUZQ7EASI",
+      "radius": 25,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:34.627Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143f3"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "403-4389965-2081951",
+  "client_order_id": "98c5d681-421a-a2a7-1f5b-2497d222776d",
+  "client_service_asin": "B07GBVGL4D",
+  "order_name": "Furniture Assembly Service - Medium",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "171-5743113-5582732",
+  "model_code": "B0BS6NHPGG",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Wed Nov 08 08:51:17 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "19576",
+    "pincode": "201014"
+  },
+  "customer_city": "Ghaziabad",
+  "customer_locality": "Noida North_CA_City",
+  "client_cx_id": "9045198912",
+  "order_remarks": "--",
+  "customer_name": "Akshara",
+  "client_sku_id": "7bb9f089675ea70dce1e729b58c7087c",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.555Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141ae"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "200",
+    "name": "Furniture Installation - Medium",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "1502",
+    "name": "SHELF",
+    "code": "B0BS6NHPGG"
+  },
+  "product": {
+    "id": "465",
+    "name": "SHELF",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "438",
+    "name": "Amazon Brand - Solimo|Amazon Brand - Solimo"
+  },
+  "zone": {
+    "id": "68",
+    "name": "North"
+  },
+  "state": {
+    "id": "1",
+    "name": "Uttar Pradesh"
+  },
+  "district": {
+    "id": "1134",
+    "name": "Noida"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.563Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.563Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "Ghaziabad",
+    "id": "9045198912",
+    "name": "Akshara",
+    "pincode": {
+      "id": "19576",
+      "pincode": "201014"
+    },
+    "locality": "Noida North_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.563Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.563Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28929",
+  "technician": {
+    "id": "224",
+    "name": "Abdullah ",
+    "mobile": "8510960946",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "A3OITOK3A83U19",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:34.739Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "224",
+      "name": "Abdullah ",
+      "mobile": "8510960946",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "A3OITOK3A83U19",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:34.739Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143f2"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "408-2964191-0995520",
+  "client_order_id": "7ac5d68b-ad56-b610-9fb0-036798bfe214",
+  "client_service_asin": "B07GBRR3KC",
+  "order_name": "Furniture Assembly Service - Small",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "16:00:00",
+  "allocation_date_end_time": "20:00:00",
+  "client_product_order_id": "408-9036098-5993151",
+  "model_code": "B077JFQLZD",
+  "order_quantity": "1",
+  "product_delivery_status": "NotDelivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Thu Nov 09 05:30:00 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "7644",
+    "pincode": "570029"
+  },
+  "customer_city": "MYSURU",
+  "customer_locality": "Mysore_CA_City",
+  "client_cx_id": "1586480141",
+  "order_remarks": "--",
+  "customer_name": "shashank",
+  "client_sku_id": "fda97b0b7b00e91ddccf2691ec039362",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.531Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141ad"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "199",
+    "name": "Furniture Installation - Small",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "B077JFQLZD"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "166",
+    "name": "Karnataka"
+  },
+  "district": {
+    "id": "837",
+    "name": "Mysore"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.539Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.539Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "MYSURU",
+    "id": "1586480141",
+    "name": "shashank",
+    "pincode": {
+      "id": "7644",
+      "pincode": "570029"
+    },
+    "locality": "Mysore_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.539Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.539Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28928",
+  "technician": {
+    "id": "1450",
+    "name": "Jayaramu N",
+    "mobile": "8105492883",
+    "rating": "A+",
+    "usernamealias": "",
+    "userclientcode": "A3HWS6JDHGT362",
+    "radius": 25,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:34.909Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "1450",
+      "name": "Jayaramu N",
+      "mobile": "8105492883",
+      "rating": "A+",
+      "usernamealias": "",
+      "userclientcode": "A3HWS6JDHGT362",
+      "radius": 25,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:34.909Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143f1"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "407-5115602-4734740",
+  "client_order_id": "c0c5d687-3130-de1d-615a-168ea777b768",
+  "client_service_asin": "B0CJ9KXWML",
+  "order_name": "Coffee Table Installation Service",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "407-0226953-2049972",
+  "model_code": "B09PNBX13Y",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Wed Nov 08 14:29:17 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "6819",
+    "pincode": "562125"
+  },
+  "customer_city": "BENGALURU",
+  "customer_locality": "Bangalore South 1_CA_City",
+  "client_cx_id": "1285020591",
+  "order_remarks": "--",
+  "customer_name": "gayathri",
+  "client_sku_id": "c944a5ae27ba372ec9222e2901ab696b",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.431Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141ac"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "272",
+    "name": "Coffee Table Installation Service",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "B09PNBX13Y"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "166",
+    "name": "Karnataka"
+  },
+  "district": {
+    "id": "810",
+    "name": "Bangalore"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.446Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.446Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "BENGALURU",
+    "id": "1285020591",
+    "name": "gayathri",
+    "pincode": {
+      "id": "6819",
+      "pincode": "562125"
+    },
+    "locality": "Bangalore South 1_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.446Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.446Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28927",
+  "technician": {
+    "id": "1614",
+    "name": "Jalandhar Ojha BLR",
+    "mobile": "8892402659",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "A1DI4VL2KSF5PS",
+    "radius": 5,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:34.943Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "1614",
+      "name": "Jalandhar Ojha BLR",
+      "mobile": "8892402659",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "A1DI4VL2KSF5PS",
+      "radius": 5,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:34.943Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143f0"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "406-7202985-3702724",
+  "client_order_id": "84c5d68e-bf60-1df3-8c1c-63956d56c2dc",
+  "client_service_asin": "B09HTJBFJ3",
+  "order_name": "Cycle Assembly Service (Non-Geared) for Hero",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "406-2708317-2964327",
+  "model_code": "B073QVPYDW",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Wed Nov 08 13:04:02 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "16609",
+    "pincode": "421204"
+  },
+  "customer_city": "KALYAN",
+  "customer_locality": "Kalyan_CA_Single",
+  "client_cx_id": "1.66E+11",
+  "order_remarks": "--",
+  "customer_name": "sayaji hadawale",
+  "client_sku_id": "89390aa0815a1a1c6dcfa9e96199276e",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.258Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141ab"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "298",
+    "name": "Cycle Assembly Service (Non-Geared) for Hero",
+    "productCategory": {
+      "name": "Sports and Fitness",
+      "id": "102"
+    }
+  },
+  "model": {
+    "id": "967",
+    "name": "Cycle",
+    "code": "B073QVPYDW"
+  },
+  "product": {
+    "id": "452",
+    "name": "BICYCLE",
+    "category": "Sports and Fitness",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "538",
+    "name": "Hero"
+  },
+  "zone": {
+    "id": "3",
+    "name": "West"
+  },
+  "state": {
+    "id": "233",
+    "name": "Maharashtra"
+  },
+  "district": {
+    "id": "1062",
+    "name": "Kalyan"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.346Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.346Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "KALYAN",
+    "id": "1.66E+11",
+    "name": "sayaji hadawale",
+    "pincode": {
+      "id": "16609",
+      "pincode": "421204"
+    },
+    "locality": "Kalyan_CA_Single",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.346Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.346Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28926",
+  "technician": {
+    "status": "Not Found",
+    "radius": 35,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:35.230Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    }
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "status": "Not Found",
+      "radius": 35,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:35.230Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143ef"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "405-4882485-3949138",
+  "client_order_id": "32c5d690-1748-6699-a8e2-bdf5fbfbee2e",
+  "client_service_asin": "B0BXSX2KBP",
+  "order_name": "Furniture Assembly Service - Large (PP)",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "18:00:00",
+  "client_product_order_id": "403-2353757-6058757",
+  "model_code": "B0B8P3K226",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Sat Nov 04 11:10:15 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "12643",
+    "pincode": "151203"
+  },
+  "customer_city": "FARIDKOT",
+  "customer_locality": "Bathinda_CA_Peripheral",
+  "client_cx_id": "25615794605",
+  "order_remarks": "--",
+  "customer_name": "Kanika .",
+  "client_sku_id": "abfe47fafcf8252a62458cbfff89180d",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.185Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141aa"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "201",
+    "name": "Furniture Installation - Large",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "4312",
+    "name": "CABINET",
+    "code": "B0B8P3K226"
+  },
+  "product": {
+    "id": "463",
+    "name": "CABINET",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "572",
+    "name": "Amazon Brand - Solimo"
+  },
+  "zone": {
+    "id": "68",
+    "name": "North"
+  },
+  "state": {
+    "id": "100",
+    "name": "Punjab"
+  },
+  "district": {
+    "id": "967",
+    "name": "Bathinda"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.236Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.236Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "FARIDKOT",
+    "id": "25615794605",
+    "name": "Kanika .",
+    "pincode": {
+      "id": "12643",
+      "pincode": "151203"
+    },
+    "locality": "Bathinda_CA_Peripheral",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.236Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.236Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28925",
+  "technician": {
+    "status": "Not Found",
+    "radius": 35,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:35.463Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    }
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "status": "Not Found",
+      "radius": 35,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:35.463Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143ee"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "402-1607158-5213963",
+  "client_order_id": "90c5d690-497f-b052-487f-75199b72deef",
+  "client_service_asin": "B075MC97MZ",
+  "order_name": "Cycle Assembly Service",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "171-5228922-2691508",
+  "model_code": "B087C2ZZFT",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Mon Oct 30 11:53:01 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "6708",
+    "pincode": "560049"
+  },
+  "customer_city": "BENGALURU",
+  "customer_locality": "Bangalore_CA_Single",
+  "client_cx_id": "12457535705",
+  "order_remarks": "--",
+  "customer_name": "Sireesha",
+  "client_sku_id": "1f2adf2d3fe4c4fb6c29e259cef88a3a",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.154Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141a9"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "234",
+    "name": "Cycle Installation",
+    "productCategory": {
+      "name": "Sports and Fitness",
+      "id": "102"
+    }
+  },
+  "model": {
+    "id": "1455",
+    "name": "Cycle",
+    "code": "B087C2ZZFT"
+  },
+  "product": {
+    "id": "452",
+    "name": "BICYCLE",
+    "category": "Sports and Fitness",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "450",
+    "name": "Leader"
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "166",
+    "name": "Karnataka"
+  },
+  "district": {
+    "id": "810",
+    "name": "Bangalore"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.167Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.167Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "BENGALURU",
+    "id": "12457535705",
+    "name": "Sireesha",
+    "pincode": {
+      "id": "6708",
+      "pincode": "560049"
+    },
+    "locality": "Bangalore_CA_Single",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.167Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.167Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28924",
+  "technician": {
+    "id": "1412",
+    "name": "K Thaneshwara Bengalore Crpt",
+    "mobile": "9945485553",
+    "rating": "A+",
+    "usernamealias": "",
+    "userclientcode": "A292UDX60OHHAM",
+    "radius": 25,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:35.653Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "1412",
+      "name": "K Thaneshwara Bengalore Crpt",
+      "mobile": "9945485553",
+      "rating": "A+",
+      "usernamealias": "",
+      "userclientcode": "A292UDX60OHHAM",
+      "radius": 25,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:35.653Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143ed"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "171-0598972-9636301",
+  "client_order_id": "b0c5d691-f86e-28af-6017-0951a78793a2",
+  "client_service_asin": "B07GBRR3KC",
+  "order_name": "Furniture Assembly Service - Small",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "171-0774165-2053104",
+  "model_code": "B082L2CFD7",
+  "order_quantity": "1",
+  "product_delivery_status": "NotDelivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Thu Nov 09 05:30:00 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "11108",
+    "pincode": "560068"
+  },
+  "customer_city": "BENGALURU",
+  "customer_locality": "Bangalore South 1_CA_City",
+  "client_cx_id": "20292603825",
+  "order_remarks": "--",
+  "customer_name": "B rama Krishna Reddy",
+  "client_sku_id": "fda97b0b7b00e91ddccf2691ec039362",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.102Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141a8"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "199",
+    "name": "Furniture Installation - Small",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "420",
+    "name": "CHAIR",
+    "code": "B082L2CFD7"
+  },
+  "product": {
+    "id": "474",
+    "name": "CHAIR",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "482",
+    "name": "CELLBELL"
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "166",
+    "name": "Karnataka"
+  },
+  "district": {
+    "id": "810",
+    "name": "Bangalore"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.139Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.139Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "BENGALURU",
+    "id": "20292603825",
+    "name": "B rama Krishna Reddy",
+    "pincode": {
+      "id": "11108",
+      "pincode": "560068"
+    },
+    "locality": "Bangalore South 1_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.139Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.139Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28923",
+  "technician": {
+    "id": "934",
+    "name": "Raju Kumar ",
+    "mobile": "8894888239",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "ALHM577B0N1B6",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:35.765Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "934",
+      "name": "Raju Kumar ",
+      "mobile": "8894888239",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "ALHM577B0N1B6",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:35.765Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143ec"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "405-2502174-9921908",
+  "client_order_id": "fec5d69d-75e9-55b1-e48e-e8b5f7ed7839",
+  "client_service_asin": "B0CJ9KXWML",
+  "order_name": "Coffee Table Installation Service",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "408-6252297-6531542",
+  "model_code": "B0BN5VZVJQ",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Wed Nov 08 14:38:03 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "6708",
+    "pincode": "560049"
+  },
+  "customer_city": "BENGALURU",
+  "customer_locality": "Bangalore East 3_CA_City",
+  "client_cx_id": "178630127",
+  "order_remarks": "--",
+  "customer_name": "Sarah Justina",
+  "client_sku_id": "c944a5ae27ba372ec9222e2901ab696b",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.078Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141a7"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "272",
+    "name": "Coffee Table Installation Service",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "B0BN5VZVJQ"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "166",
+    "name": "Karnataka"
+  },
+  "district": {
+    "id": "810",
+    "name": "Bangalore"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.087Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.087Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "BENGALURU",
+    "id": "178630127",
+    "name": "Sarah Justina",
+    "pincode": {
+      "id": "6708",
+      "pincode": "560049"
+    },
+    "locality": "Bangalore East 3_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.087Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.087Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28922",
+  "technician": {
+    "id": "1577",
+    "name": "BLR Somashekar A",
+    "mobile": "9686101817",
+    "rating": "A+",
+    "usernamealias": "",
+    "userclientcode": "A3UVPN0SA1U5LZ",
+    "radius": 5,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:35.800Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "1577",
+      "name": "BLR Somashekar A",
+      "mobile": "9686101817",
+      "rating": "A+",
+      "usernamealias": "",
+      "userclientcode": "A3UVPN0SA1U5LZ",
+      "radius": 5,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:35.800Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143eb"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "404-8187408-4441157",
+  "client_order_id": "6ac5d69f-4a78-7d36-e0e1-c6a9de78a599",
+  "client_service_asin": "B07GBS9Y1S",
+  "order_name": "Furniture Assembly Service - Large",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "404-1929301-2692328",
+  "model_code": "B07RJFQ1JZ",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Sun Nov 05 14:42:01 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "12040",
+    "pincode": "713304"
+  },
+  "customer_city": "BARDHAMAN",
+  "customer_locality": "Asansol_CA_City",
+  "client_cx_id": "14399465325",
+  "order_remarks": "--",
+  "customer_name": "mithai",
+  "client_sku_id": "bf3acdd90fc7c44cd0539f0d12232641",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.051Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141a6"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "201",
+    "name": "Furniture Installation - Large",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "298",
+    "name": "BED_FRAME",
+    "code": "B07RJFQ1JZ"
+  },
+  "product": {
+    "id": "466",
+    "name": "BED_FRAME",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "438",
+    "name": "Amazon Brand - Solimo|Amazon Brand - Solimo"
+  },
+  "zone": {
+    "id": "67",
+    "name": "East"
+  },
+  "state": {
+    "id": "326",
+    "name": "West Bengal"
+  },
+  "district": {
+    "id": "948",
+    "name": "Asansol"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.063Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.063Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "BARDHAMAN",
+    "id": "14399465325",
+    "name": "mithai",
+    "pincode": {
+      "id": "12040",
+      "pincode": "713304"
+    },
+    "locality": "Asansol_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.063Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.063Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28921",
+  "technician": {
+    "id": "1025",
+    "name": "Sajal  Dawan ",
+    "mobile": "9547779590",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "APY0N85Z2NAPT",
+    "radius": 5,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:35.832Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "1025",
+      "name": "Sajal  Dawan ",
+      "mobile": "9547779590",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "APY0N85Z2NAPT",
+      "radius": 5,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:35.832Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143ea"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "403-0515430-3910756",
+  "client_order_id": "4ac5d6ae-2fb7-e7a0-22f1-58217f30b4ba",
+  "client_service_asin": "B07GBS9Y1S",
+  "order_name": "Furniture Assembly Service - Large",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "16:00:00",
+  "allocation_date_end_time": "20:00:00",
+  "client_product_order_id": "408-7291043-9232369",
+  "model_code": "B09P3LVCQL",
+  "order_quantity": "1",
+  "product_delivery_status": "NotDelivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Wed Nov 08 05:30:00 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "1968",
+    "pincode": "516101"
+  },
+  "customer_city": "KODUR",
+  "customer_locality": "Rly Koduru_CA_City",
+  "client_cx_id": "9910319035",
+  "order_remarks": "--",
+  "customer_name": "vullamparthisubodh",
+  "client_sku_id": "bf3acdd90fc7c44cd0539f0d12232641",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:17.015Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141a5"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "201",
+    "name": "Furniture Installation - Large",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "4221",
+    "name": "BED_FRAME",
+    "code": "B09P3LVCQL"
+  },
+  "product": {
+    "id": "466",
+    "name": "BED_FRAME",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "572",
+    "name": "Amazon Brand - Solimo"
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "299",
+    "name": "Andhra Pradesh"
+  },
+  "district": {
+    "id": "606",
+    "name": "Cuddapah"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.035Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:17.035Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "KODUR",
+    "id": "9910319035",
+    "name": "vullamparthisubodh",
+    "pincode": {
+      "id": "1968",
+      "pincode": "516101"
+    },
+    "locality": "Rly Koduru_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.035Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:17.035Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28920",
+  "technician": {
+    "status": "Not Found",
+    "radius": 35,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:36.110Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    }
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "status": "Not Found",
+      "radius": 35,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:36.110Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143e9"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "402-1495032-4217911",
+  "client_order_id": "08c5d6b2-db4b-b43e-30c9-01b99328739b",
+  "client_service_asin": "B075MC97MZ",
+  "order_name": "Cycle Assembly Service",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "404-1478648-6383545",
+  "model_code": "B089M9HVQP",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Sun Nov 05 09:10:25 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "5482",
+    "pincode": "390009"
+  },
+  "customer_city": "VADODARA",
+  "customer_locality": "Vadodara_CA_City",
+  "client_cx_id": "68185768612",
+  "order_remarks": "--",
+  "customer_name": "Anuj tripathi",
+  "client_sku_id": "1f2adf2d3fe4c4fb6c29e259cef88a3a",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.986Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141a4"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "234",
+    "name": "Cycle Installation",
+    "productCategory": {
+      "name": "Sports and Fitness",
+      "id": "102"
+    }
+  },
+  "model": {
+    "id": "1462",
+    "name": "Cycle",
+    "code": "B089M9HVQP"
+  },
+  "product": {
+    "id": "452",
+    "name": "BICYCLE",
+    "category": "Sports and Fitness",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "450",
+    "name": "Leader"
+  },
+  "zone": {
+    "id": "3",
+    "name": "West"
+  },
+  "state": {
+    "id": "308",
+    "name": "Gujarat"
+  },
+  "district": {
+    "id": "729",
+    "name": "Vadodara"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.999Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.999Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "VADODARA",
+    "id": "68185768612",
+    "name": "Anuj tripathi",
+    "pincode": {
+      "id": "5482",
+      "pincode": "390009"
+    },
+    "locality": "Vadodara_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.999Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.999Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28919",
+  "technician": {
+    "status": "Not Found",
+    "radius": 35,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:36.357Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    }
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "status": "Not Found",
+      "radius": 35,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:36.357Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143e8"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "408-7385829-9282737",
+  "client_order_id": "38c5d6b1-dd06-7282-38a8-0a155c0df92f",
+  "client_service_asin": "B09MTS62VD",
+  "order_name": "Escalation Order- Furniture",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "11:00:00",
+  "client_product_order_id": "--",
+  "model_code": "--",
+  "order_quantity": "--",
+  "product_delivery_status": "--",
+  "model_serial_number": "--",
+  "product_delivery_estimated_sate": "--",
+  "model_serial_no": "--",
+  "model_serial_no_type": "--",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "22038",
+    "pincode": "620010"
+  },
+  "customer_city": "TIRUCHIRAPPALLI",
+  "customer_locality": "ESC_CA2",
+  "client_cx_id": "16222068935",
+  "order_remarks": "--",
+  "customer_name": "Vanitha",
+  "client_sku_id": "5c9d18c58026304b012308c9b5136a61",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.952Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141a3"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "279",
+    "name": "Escalation Order- Furniture",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "--"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "323",
+    "name": "Tamil Nadu"
+  },
+  "district": {
+    "id": "1202",
+    "name": "Tiruchirappalli"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.970Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.970Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "TIRUCHIRAPPALLI",
+    "id": "16222068935",
+    "name": "Vanitha",
+    "pincode": {
+      "id": "22038",
+      "pincode": "620010"
+    },
+    "locality": "ESC_CA2",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.970Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.970Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28918",
+  "technician": {
+    "id": "325",
+    "name": "Arumugam S",
+    "mobile": "7502256736",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "A1G1Z2DCNEH0ZM",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:36.469Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "325",
+      "name": "Arumugam S",
+      "mobile": "7502256736",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "A1G1Z2DCNEH0ZM",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:36.469Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143e7"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "406-6665037-6765960",
+  "client_order_id": "7ac5d6c6-126a-2d78-72bf-9ff2a24b48f7",
+  "client_service_asin": "B07GBVGL4D",
+  "order_name": "Furniture Assembly Service - Medium",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "16:00:00",
+  "allocation_date_end_time": "20:00:00",
+  "client_product_order_id": "--",
+  "model_code": "--",
+  "order_quantity": "--",
+  "product_delivery_status": "--",
+  "model_serial_number": "--",
+  "product_delivery_estimated_sate": "--",
+  "model_serial_no": "--",
+  "model_serial_no_type": "--",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "15895",
+    "pincode": "302006"
+  },
+  "customer_city": "JAIPUR",
+  "customer_locality": "Jaipur_CA_City",
+  "client_cx_id": "11834271325",
+  "order_remarks": "--",
+  "customer_name": "puja raj",
+  "client_sku_id": "7bb9f089675ea70dce1e729b58c7087c",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.921Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141a2"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "200",
+    "name": "Furniture Installation - Medium",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "--"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "68",
+    "name": "North"
+  },
+  "state": {
+    "id": "321",
+    "name": "Rajasthan"
+  },
+  "district": {
+    "id": "1043",
+    "name": "Jaipur"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.935Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.935Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "JAIPUR",
+    "id": "11834271325",
+    "name": "puja raj",
+    "pincode": {
+      "id": "15895",
+      "pincode": "302006"
+    },
+    "locality": "Jaipur_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.935Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.935Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28917",
+  "technician": {
+    "id": "1563",
+    "name": "Pravin Jaipur",
+    "mobile": "8503828511",
+    "rating": "B",
+    "usernamealias": "",
+    "userclientcode": "A1ND75ZPSA2IJL",
+    "radius": 35,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:36.715Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "1563",
+      "name": "Pravin Jaipur",
+      "mobile": "8503828511",
+      "rating": "B",
+      "usernamealias": "",
+      "userclientcode": "A1ND75ZPSA2IJL",
+      "radius": 35,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:36.715Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143e6"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "405-0602678-9321927",
+  "client_order_id": "4ec5d6bd-7d8c-d25c-07df-d49368329bb7",
+  "client_service_asin": "B07GBRR3KC",
+  "order_name": "Furniture Assembly Service - Small",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "405-5028014-3437936",
+  "model_code": "B08FCH8VNX",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Wed Nov 08 11:09:49 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "20114",
+    "pincode": "411016"
+  },
+  "customer_city": "PUNE",
+  "customer_locality": "Pune South_CA_City",
+  "client_cx_id": "15508388825",
+  "order_remarks": "--",
+  "customer_name": "Rajendra Habbu",
+  "client_sku_id": "fda97b0b7b00e91ddccf2691ec039362",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.897Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141a1"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "199",
+    "name": "Furniture Installation - Small",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "389",
+    "name": "DESK",
+    "code": "B08FCH8VNX"
+  },
+  "product": {
+    "id": "469",
+    "name": "DESK",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "446",
+    "name": "@home"
+  },
+  "zone": {
+    "id": "3",
+    "name": "West"
+  },
+  "state": {
+    "id": "233",
+    "name": "Maharashtra"
+  },
+  "district": {
+    "id": "1153",
+    "name": "Pune"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.905Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.905Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "PUNE",
+    "id": "15508388825",
+    "name": "Rajendra Habbu",
+    "pincode": {
+      "id": "20114",
+      "pincode": "411016"
+    },
+    "locality": "Pune South_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.905Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.905Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28916",
+  "technician": {
+    "id": "1617",
+    "name": "Pune Ramesh Alange",
+    "mobile": "8766868378",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "AT63P3R3FT7XX",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:36.827Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "1617",
+      "name": "Pune Ramesh Alange",
+      "mobile": "8766868378",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "AT63P3R3FT7XX",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:36.827Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143e5"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "171-9313984-9923561",
+  "client_order_id": "2cc5d6bf-7e83-0563-d9a7-ba59144bd2f4",
+  "client_service_asin": "B07GBVGL4D",
+  "order_name": "Furniture Assembly Service - Medium",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "171-6876285-4249933",
+  "model_code": "B084XMYGB8",
+  "order_quantity": "2",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Tue Nov 07 12:32:05 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "9764",
+    "pincode": "452016"
+  },
+  "customer_city": "INDORE",
+  "customer_locality": "Indore_CA_City",
+  "client_cx_id": "18299556935",
+  "order_remarks": "--",
+  "customer_name": "Vishal Jain",
+  "client_sku_id": "7bb9f089675ea70dce1e729b58c7087c",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.873Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e141a0"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "200",
+    "name": "Furniture Installation - Medium",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "1025",
+    "name": "SOFA",
+    "code": "B084XMYGB8"
+  },
+  "product": {
+    "id": "464",
+    "name": "SOFA",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "438",
+    "name": "Amazon Brand - Solimo|Amazon Brand - Solimo"
+  },
+  "zone": {
+    "id": "3",
+    "name": "West"
+  },
+  "state": {
+    "id": "314",
+    "name": "Madhya Pradesh"
+  },
+  "district": {
+    "id": "889",
+    "name": "Indore"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.882Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.882Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "INDORE",
+    "id": "18299556935",
+    "name": "Vishal Jain",
+    "pincode": {
+      "id": "9764",
+      "pincode": "452016"
+    },
+    "locality": "Indore_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.882Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.882Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28915",
+  "technician": {
+    "id": "527",
+    "name": "Hemant ",
+    "mobile": "7909793639",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "A1XO8BBXY7YUPJ",
+    "radius": 25,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:36.992Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "527",
+      "name": "Hemant ",
+      "mobile": "7909793639",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "A1XO8BBXY7YUPJ",
+      "radius": 25,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:36.992Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143e4"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "408-2603786-2582715",
+  "client_order_id": "7ec5d6bf-6820-7023-73a2-c8443a809662",
+  "client_service_asin": "B09MTS62VD",
+  "order_name": "Escalation Order- Furniture",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "11:00:00",
+  "client_product_order_id": "--",
+  "model_code": "--",
+  "order_quantity": "--",
+  "product_delivery_status": "--",
+  "model_serial_number": "--",
+  "product_delivery_estimated_sate": "--",
+  "model_serial_no": "--",
+  "model_serial_no_type": "--",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "10614",
+    "pincode": "415304"
+  },
+  "customer_city": "KADEGAON",
+  "customer_locality": "ESC_CA1",
+  "client_cx_id": "2.84E+11",
+  "order_remarks": "--",
+  "customer_name": "Atharv Pawar",
+  "client_sku_id": "27ac3af61f897a984f12da5efd6fde47",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.851Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e1419f"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "279",
+    "name": "Escalation Order- Furniture",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "--"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "3",
+    "name": "West"
+  },
+  "state": {
+    "id": "233",
+    "name": "Maharashtra"
+  },
+  "district": {
+    "id": "927",
+    "name": "Sangli"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.858Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.858Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "KADEGAON",
+    "id": "2.84E+11",
+    "name": "Atharv Pawar",
+    "pincode": {
+      "id": "10614",
+      "pincode": "415304"
+    },
+    "locality": "ESC_CA1",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.858Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.858Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28914",
+  "technician": {
+    "id": "1455",
+    "name": "Satara Santosh Chandane Cycle",
+    "mobile": "9967377730",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "A1SQJENLVP23XE",
+    "radius": 25,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:37.185Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "1455",
+      "name": "Satara Santosh Chandane Cycle",
+      "mobile": "9967377730",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "A1SQJENLVP23XE",
+      "radius": 25,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:37.185Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143e3"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "406-7438465-4036331",
+  "client_order_id": "36c5d6c2-596b-bcf1-3a21-312810dffc82",
+  "client_service_asin": "B07GBS9Y1S",
+  "order_name": "Furniture Assembly Service - Large",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "408-3437323-6439566",
+  "model_code": "B092939JNW",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Wed Nov 08 11:19:57 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "7564",
+    "pincode": "575006"
+  },
+  "customer_city": "MANGALURU",
+  "customer_locality": "Mangalore_CA_City",
+  "client_cx_id": "15506712725",
+  "order_remarks": "--",
+  "customer_name": "Dnyanesh",
+  "client_sku_id": "bf3acdd90fc7c44cd0539f0d12232641",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.818Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e1419e"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "201",
+    "name": "Furniture Installation - Large",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "B092939JNW"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "166",
+    "name": "Karnataka"
+  },
+  "district": {
+    "id": "835",
+    "name": "Dakshina Kannada"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.836Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.836Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "MANGALURU",
+    "id": "15506712725",
+    "name": "Dnyanesh",
+    "pincode": {
+      "id": "7564",
+      "pincode": "575006"
+    },
+    "locality": "Mangalore_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.836Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.836Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28913",
+  "technician": {
+    "status": "Not Found",
+    "radius": 35,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:37.427Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    }
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "status": "Not Found",
+      "radius": 35,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:37.427Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143e2"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "402-0480803-5905965",
+  "client_order_id": "e0c5d6c7-3cb1-ed73-f22c-3438f7b68df1",
+  "client_service_asin": "B07GBRR3KC",
+  "order_name": "Furniture Assembly Service - Small",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "14:00:00",
+  "client_product_order_id": "402-2657404-0186765",
+  "model_code": "B083BXX161",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Fri Nov 03 09:04:28 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "22568",
+    "pincode": "221002"
+  },
+  "customer_city": "VARANASI",
+  "customer_locality": "Varanasi_CA_City",
+  "client_cx_id": "41487450815",
+  "order_remarks": "--",
+  "customer_name": "Rakhi",
+  "client_sku_id": "fda97b0b7b00e91ddccf2691ec039362",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.796Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e1419d"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "199",
+    "name": "Furniture Installation - Small",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "B083BXX161"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "68",
+    "name": "North"
+  },
+  "state": {
+    "id": "1",
+    "name": "Uttar Pradesh"
+  },
+  "district": {
+    "id": "1216",
+    "name": "Varanasi"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.804Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.804Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "VARANASI",
+    "id": "41487450815",
+    "name": "Rakhi",
+    "pincode": {
+      "id": "22568",
+      "pincode": "221002"
+    },
+    "locality": "Varanasi_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.804Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.804Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28912",
+  "technician": {
+    "id": "421",
+    "name": "Deepak Kumar ",
+    "mobile": "9305602342",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "ATA05PBAQ7JR1",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:37.534Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "421",
+      "name": "Deepak Kumar ",
+      "mobile": "9305602342",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "ATA05PBAQ7JR1",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:37.534Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143e1"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "403-7815564-7065121",
+  "client_order_id": "5ec5d6d9-eb9b-6414-7438-bb18f0be0c13",
+  "client_service_asin": "B07GBVGL4D",
+  "order_name": "Furniture Assembly Service - Medium",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "--",
+  "model_code": "--",
+  "order_quantity": "--",
+  "product_delivery_status": "--",
+  "model_serial_number": "--",
+  "product_delivery_estimated_sate": "--",
+  "model_serial_no": "--",
+  "model_serial_no_type": "--",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "4620",
+    "pincode": "110049"
+  },
+  "customer_city": "NEW DELHI",
+  "customer_locality": "Delhi East 4_CA_City",
+  "client_cx_id": "7334857825",
+  "order_remarks": "--",
+  "customer_name": "ashwani mudgil",
+  "client_sku_id": "7bb9f089675ea70dce1e729b58c7087c",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.774Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e1419c"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "200",
+    "name": "Furniture Installation - Medium",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "--"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "68",
+    "name": "North"
+  },
+  "state": {
+    "id": "67",
+    "name": "Delhi"
+  },
+  "district": {
+    "id": "705",
+    "name": "South Delhi"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.782Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.782Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "NEW DELHI",
+    "id": "7334857825",
+    "name": "ashwani mudgil",
+    "pincode": {
+      "id": "4620",
+      "pincode": "110049"
+    },
+    "locality": "Delhi East 4_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.782Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.782Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28911",
+  "technician": {
+    "id": "580",
+    "name": "Javed Saifi ",
+    "mobile": "7531871106",
+    "rating": "B",
+    "usernamealias": "",
+    "userclientcode": "AYP9F3JCDN9A6",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:37.644Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "580",
+      "name": "Javed Saifi ",
+      "mobile": "7531871106",
+      "rating": "B",
+      "usernamealias": "",
+      "userclientcode": "AYP9F3JCDN9A6",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:37.644Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143e0"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "405-4123199-3434711",
+  "client_order_id": "2ec5d6db-60ff-9574-0a1b-93fbe3d95e22",
+  "client_service_asin": "B07GBVGL4D",
+  "order_name": "Furniture Assembly Service - Medium",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "402-1083780-0465120",
+  "model_code": "B07THDGGL9",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Sun Nov 05 11:15:21 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "15617",
+    "pincode": "635103"
+  },
+  "customer_city": "BAGALUR",
+  "customer_locality": "Hosur_CA_City",
+  "client_cx_id": "5796196312",
+  "order_remarks": "--",
+  "customer_name": "yeswanth",
+  "client_sku_id": "7bb9f089675ea70dce1e729b58c7087c",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.750Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e1419b"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "200",
+    "name": "Furniture Installation - Medium",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "446",
+    "name": "TABLE",
+    "code": "B07THDGGL9"
+  },
+  "product": {
+    "id": "468",
+    "name": "TABLE",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "444",
+    "name": "Home Centre"
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "323",
+    "name": "Tamil Nadu"
+  },
+  "district": {
+    "id": "1036",
+    "name": "Hosur"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.759Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.759Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "BAGALUR",
+    "id": "5796196312",
+    "name": "yeswanth",
+    "pincode": {
+      "id": "15617",
+      "pincode": "635103"
+    },
+    "locality": "Hosur_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.759Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.759Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28910",
+  "technician": {
+    "id": "1612",
+    "name": "Sivakumar Ramachandrappa Hosur Crpt",
+    "mobile": "9787077446",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "A1E7BMKA9D8A1X",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:37.746Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "1612",
+      "name": "Sivakumar Ramachandrappa Hosur Crpt",
+      "mobile": "9787077446",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "A1E7BMKA9D8A1X",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:37.746Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143df"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "408-7656515-0974721",
+  "client_order_id": "20c5d6df-8d15-d561-b94e-b7886fba055a",
+  "client_service_asin": "B09MTS62VD",
+  "order_name": "Escalation Order- Furniture",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "11:00:00",
+  "client_product_order_id": "--",
+  "model_code": "--",
+  "order_quantity": "--",
+  "product_delivery_status": "--",
+  "model_serial_number": "--",
+  "product_delivery_estimated_sate": "--",
+  "model_serial_no": "--",
+  "model_serial_no_type": "--",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "16414",
+    "pincode": "284403"
+  },
+  "customer_city": "LALITPUR",
+  "customer_locality": "ESC_CA1",
+  "client_cx_id": "1.25E+11",
+  "order_remarks": "--",
+  "customer_name": "Brajendra",
+  "client_sku_id": "27ac3af61f897a984f12da5efd6fde47",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.722Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e1419a"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "279",
+    "name": "Escalation Order- Furniture",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "--"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "68",
+    "name": "North"
+  },
+  "state": {
+    "id": "1",
+    "name": "Uttar Pradesh"
+  },
+  "district": {
+    "id": "1053",
+    "name": "Jhansi"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.734Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.734Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "LALITPUR",
+    "id": "1.25E+11",
+    "name": "Brajendra",
+    "pincode": {
+      "id": "16414",
+      "pincode": "284403"
+    },
+    "locality": "ESC_CA1",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.734Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.734Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28909",
+  "technician": {
+    "status": "Not Found",
+    "radius": 35,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:37.985Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    }
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "status": "Not Found",
+      "radius": 35,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:37.985Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143de"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "408-7620412-9956344",
+  "client_order_id": "6ec5d6e4-a84d-d383-2d31-56e71d4fad61",
+  "client_service_asin": "B0C8G3FYC5",
+  "order_name": "Cycle/Bike Inspection Service - C",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "14:00:00",
+  "allocation_date_end_time": "18:00:00",
+  "client_product_order_id": "403-6901248-2456366",
+  "model_code": "B09XF4BPYJ",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Tue Nov 07 09:27:47 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "20144",
+    "pincode": "411048"
+  },
+  "customer_city": "PUNE",
+  "customer_locality": "Pune_CA_Single",
+  "client_cx_id": "12752677835",
+  "order_remarks": "--",
+  "customer_name": "sandeep suresh palande",
+  "client_sku_id": "5f557d56950c40151832deb63814e365",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.699Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e14199"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "265",
+    "name": "Cycle/Bike Inspection Service - C",
+    "productCategory": {
+      "name": "Sports and Fitness",
+      "id": "102"
+    }
+  },
+  "model": {
+    "id": "1039",
+    "name": "Cycle",
+    "code": "B09XF4BPYJ"
+  },
+  "product": {
+    "id": "452",
+    "name": "BICYCLE",
+    "category": "Sports and Fitness",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "530",
+    "name": "Lifelong"
+  },
+  "zone": {
+    "id": "3",
+    "name": "West"
+  },
+  "state": {
+    "id": "233",
+    "name": "Maharashtra"
+  },
+  "district": {
+    "id": "1153",
+    "name": "Pune"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.708Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.708Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "PUNE",
+    "id": "12752677835",
+    "name": "sandeep suresh palande",
+    "pincode": {
+      "id": "20144",
+      "pincode": "411048"
+    },
+    "locality": "Pune_CA_Single",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.708Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.708Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28908",
+  "technician": {
+    "id": "647",
+    "name": "Mahesh Sanjeev Mele ",
+    "mobile": "8317210503",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "A3AXOFVIQXXN9X",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:38.108Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "647",
+      "name": "Mahesh Sanjeev Mele ",
+      "mobile": "8317210503",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "A3AXOFVIQXXN9X",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:38.108Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143dd"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "407-0013244-9537900",
+  "client_order_id": "64c5d6fa-ca09-4a9d-dcf7-b711cb71d331",
+  "client_service_asin": "B0CJ9LC7GB",
+  "order_name": "Plastic Cabinets Installation Service",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "407-1866015-9769919",
+  "model_code": "B014899BVW",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Tue Nov 07 19:46:34 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "6728",
+    "pincode": "560017"
+  },
+  "customer_city": "BANGALORE",
+  "customer_locality": "Bangalore East 1_CA_City",
+  "client_cx_id": "7481014325",
+  "order_remarks": "--",
+  "customer_name": "Sujamohan",
+  "client_sku_id": "214c9e48e3adb99e9987882372084f06",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.674Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e14198"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "278",
+    "name": "Plastic Cabinets Installation Service",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "1741",
+    "name": "CABINET",
+    "code": "B014899BVW"
+  },
+  "product": {
+    "id": "463",
+    "name": "CABINET",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "447",
+    "name": "Nilkamal"
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "166",
+    "name": "Karnataka"
+  },
+  "district": {
+    "id": "810",
+    "name": "Bangalore"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.685Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.685Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "BANGALORE",
+    "id": "7481014325",
+    "name": "Sujamohan",
+    "pincode": {
+      "id": "6728",
+      "pincode": "560017"
+    },
+    "locality": "Bangalore East 1_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.685Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.685Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28907",
+  "technician": {
+    "id": "934",
+    "name": "Raju Kumar ",
+    "mobile": "8894888239",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "ALHM577B0N1B6",
+    "radius": 5,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:38.148Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "934",
+      "name": "Raju Kumar ",
+      "mobile": "8894888239",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "ALHM577B0N1B6",
+      "radius": 5,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:38.148Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143dc"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "407-0469759-4893905",
+  "client_order_id": "bcc5d708-990d-1492-1142-43f90605a113",
+  "client_service_asin": "B07GBRR3KC",
+  "order_name": "Furniture Assembly Service - Small",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "407-7152892-8621126",
+  "model_code": "B08RYWNPJR",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Wed Nov 08 13:43:58 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "22571",
+    "pincode": "221005"
+  },
+  "customer_city": "VARANASI",
+  "customer_locality": "Varanasi_CA_City",
+  "client_cx_id": "21869249612",
+  "order_remarks": "--",
+  "customer_name": "Mohammad Bashar",
+  "client_sku_id": "fda97b0b7b00e91ddccf2691ec039362",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.650Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e14197"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "199",
+    "name": "Furniture Installation - Small",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "454",
+    "name": "CHAIR",
+    "code": "B08RYWNPJR"
+  },
+  "product": {
+    "id": "474",
+    "name": "CHAIR",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "482",
+    "name": "CELLBELL"
+  },
+  "zone": {
+    "id": "68",
+    "name": "North"
+  },
+  "state": {
+    "id": "1",
+    "name": "Uttar Pradesh"
+  },
+  "district": {
+    "id": "1216",
+    "name": "Varanasi"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.658Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.658Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "VARANASI",
+    "id": "21869249612",
+    "name": "Mohammad Bashar",
+    "pincode": {
+      "id": "22571",
+      "pincode": "221005"
+    },
+    "locality": "Varanasi_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.658Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.658Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28906",
+  "technician": {
+    "id": "421",
+    "name": "Deepak Kumar ",
+    "mobile": "9305602342",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "ATA05PBAQ7JR1",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:38.252Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "421",
+      "name": "Deepak Kumar ",
+      "mobile": "9305602342",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "ATA05PBAQ7JR1",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:38.252Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143db"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "171-2789807-5269140",
+  "client_order_id": "90c5d70f-84ac-deba-edff-51dde0ad5651",
+  "client_service_asin": "B0CJ9MZQRZ",
+  "order_name": "Shoe rack Installation Service",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "405-5488045-1873113",
+  "model_code": "B01E6VBNJK",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Wed Nov 08 13:48:15 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "6704",
+    "pincode": "560001"
+  },
+  "customer_city": "Bangalore",
+  "customer_locality": "Bangalore Central 3_CA_City",
+  "client_cx_id": "16768554925",
+  "order_remarks": "--",
+  "customer_name": "Dr.Sarita Rao",
+  "client_sku_id": "9850192dfc189d0ebdc241c39fb240ce",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.614Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e14196"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "275",
+    "name": "Shoe rack Installation Service",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "1368",
+    "name": "CLOTHES_RACK",
+    "code": "B01E6VBNJK"
+  },
+  "product": {
+    "id": "470",
+    "name": "CLOTHES_RACK",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "510",
+    "name": "CELLO"
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "166",
+    "name": "Karnataka"
+  },
+  "district": {
+    "id": "810",
+    "name": "Bangalore"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.636Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.636Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "Bangalore",
+    "id": "16768554925",
+    "name": "Dr.Sarita Rao",
+    "pincode": {
+      "id": "6704",
+      "pincode": "560001"
+    },
+    "locality": "Bangalore Central 3_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.636Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.636Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28905",
+  "technician": {
+    "id": "934",
+    "name": "Raju Kumar ",
+    "mobile": "8894888239",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "ALHM577B0N1B6",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:38.368Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "934",
+      "name": "Raju Kumar ",
+      "mobile": "8894888239",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "ALHM577B0N1B6",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:38.368Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143da"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "171-4622785-9550769",
+  "client_order_id": "7cc5d710-c3a9-69dd-78d9-044573b20399",
+  "client_service_asin": "B0CJ9L7LX8",
+  "order_name": "Desk Installation Service",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "405-7235770-2593136",
+  "model_code": "B0BSC7BZPY",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Tue Nov 07 12:07:06 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "17395",
+    "pincode": "700145"
+  },
+  "customer_city": "RAJPUR SONARPUR",
+  "customer_locality": "Kolkata South_CA_City",
+  "client_cx_id": "12888470735",
+  "order_remarks": "--",
+  "customer_name": "Ashish Basu",
+  "client_sku_id": "4a1f0fee85bc2a3fad1ce34efc38e27c",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.585Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e14195"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "274",
+    "name": "Desk Installation Service",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "B0BSC7BZPY"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "67",
+    "name": "East"
+  },
+  "state": {
+    "id": "326",
+    "name": "West Bengal"
+  },
+  "district": {
+    "id": "1079",
+    "name": "Kolkata"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.600Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.600Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "RAJPUR SONARPUR",
+    "id": "12888470735",
+    "name": "Ashish Basu",
+    "pincode": {
+      "id": "17395",
+      "pincode": "700145"
+    },
+    "locality": "Kolkata South_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.600Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.600Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28904",
+  "technician": {
+    "id": "698",
+    "name": "Md.Irafat ",
+    "mobile": "7439488599",
+    "rating": "A+",
+    "usernamealias": "",
+    "userclientcode": "A7R7815AEOMB2",
+    "radius": 5,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:38.402Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "698",
+      "name": "Md.Irafat ",
+      "mobile": "7439488599",
+      "rating": "A+",
+      "usernamealias": "",
+      "userclientcode": "A7R7815AEOMB2",
+      "radius": 5,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:38.402Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143d9"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "408-1281425-9361941",
+  "client_order_id": "80c5d720-c9b9-c1bb-959f-d9dda8e006f7",
+  "client_service_asin": "B09MTS62VD",
+  "order_name": "Escalation Order- Furniture",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "10:00:00",
+  "allocation_date_end_time": "11:00:00",
+  "client_product_order_id": "--",
+  "model_code": "--",
+  "order_quantity": "--",
+  "product_delivery_status": "--",
+  "model_serial_number": "--",
+  "product_delivery_estimated_sate": "--",
+  "model_serial_no": "--",
+  "model_serial_no_type": "--",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "10917",
+    "pincode": "382421"
+  },
+  "customer_city": "Gandhinagar",
+  "customer_locality": "ESC_CA1",
+  "client_cx_id": "9724137225",
+  "order_remarks": "--",
+  "customer_name": "DHARMENDRA",
+  "client_sku_id": "27ac3af61f897a984f12da5efd6fde47",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.548Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e14194"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "279",
+    "name": "Escalation Order- Furniture",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": null,
+    "name": null,
+    "code": "--"
+  },
+  "product": {
+    "id": null,
+    "name": null,
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": null,
+    "name": null
+  },
+  "zone": {
+    "id": "3",
+    "name": "West"
+  },
+  "state": {
+    "id": "308",
+    "name": "Gujarat"
+  },
+  "district": {
+    "id": "709",
+    "name": "Gandhi Nagar"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.570Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.570Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "Gandhinagar",
+    "id": "9724137225",
+    "name": "DHARMENDRA",
+    "pincode": {
+      "id": "10917",
+      "pincode": "382421"
+    },
+    "locality": "ESC_CA1",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.570Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.570Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28903",
+  "technician": {
+    "status": "Not Found",
+    "radius": 35,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:38.641Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    }
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "status": "Not Found",
+      "radius": 35,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:38.641Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143d8"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "405-2558137-2467517",
+  "client_order_id": "d4c5d729-30a7-bcdd-505e-99295e4d2f94",
+  "client_service_asin": "B07R8YQBWH",
+  "order_name": "Cycle Assembly Service (Geared)",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "405-4621749-3769121",
+  "model_code": "B09XXLNC9C",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Wed Nov 08 15:07:10 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "4258",
+    "pincode": "800001"
+  },
+  "customer_city": "PATNA",
+  "customer_locality": "Patna_CA_City",
+  "client_cx_id": "65146147512",
+  "order_remarks": "--",
+  "customer_name": "Surbhit",
+  "client_sku_id": "3d68a609c1a526bcb8666890b878871b",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.467Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e14193"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "234",
+    "name": "Cycle Installation",
+    "productCategory": {
+      "name": "Sports and Fitness",
+      "id": "102"
+    }
+  },
+  "model": {
+    "id": "4326",
+    "name": "BICYCLE",
+    "code": "B09XXLNC9C"
+  },
+  "product": {
+    "id": "452",
+    "name": "BICYCLE",
+    "category": "Sports and Fitness",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "450",
+    "name": "Leader"
+  },
+  "zone": {
+    "id": "67",
+    "name": "East"
+  },
+  "state": {
+    "id": "302",
+    "name": "Bihar"
+  },
+  "district": {
+    "id": "674",
+    "name": "Patna"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.531Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.531Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "PATNA",
+    "id": "65146147512",
+    "name": "Surbhit",
+    "pincode": {
+      "id": "4258",
+      "pincode": "800001"
+    },
+    "locality": "Patna_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.531Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.531Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28902",
+  "technician": {
+    "status": "Not Found",
+    "radius": 35,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:38.907Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    }
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "status": "Not Found",
+      "radius": 35,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:38.907Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654b7d8a0c8dd9c770e143d7"
+  },
+  "client": {
+    "id": "298",
+    "name": "Amazon"
+  },
+  "client_order_creation_datetime": "08/11/2023",
+  "client_job_id": "406-9653865-4793135",
+  "client_order_id": "34c5d738-ef26-08b3-0010-5a6c3fc67bcf",
+  "client_service_asin": "B0CJ9LLZBC",
+  "order_name": "Storage Shelf Installation service",
+  "client_order_status": "NOT_SERVICED",
+  "allocation_date": {
+    "dateStr": "09/11/2023",
+    "date": {
+      "$date": "2023-11-09T00:00:00.000Z"
+    }
+  },
+  "allocation_date_start_time": "15:00:00",
+  "allocation_date_end_time": "19:00:00",
+  "client_product_order_id": "406-9843928-0830718",
+  "model_code": "B07FD6KDK9",
+  "order_quantity": "1",
+  "product_delivery_status": "Delivered",
+  "model_serial_number": "",
+  "product_delivery_estimated_sate": "Wed Nov 08 15:45:30 IST 2023",
+  "model_serial_no": "",
+  "model_serial_no_type": "",
+  "tx_name": "--",
+  "tx_order_status": "--",
+  "pincode": {
+    "id": "1782",
+    "pincode": "500073"
+  },
+  "customer_city": "HYDERABAD",
+  "customer_locality": "Hyderabad Central 1_CA_City",
+  "client_cx_id": "4.89E+11",
+  "order_remarks": "--",
+  "customer_name": "Ramya",
+  "client_sku_id": "056dd6af51bc2ef1e3586fe46328fda3",
+  "creationLog": {
+    "createdAt": {
+      "$date": "2023-11-08T12:22:16.371Z"
+    },
+    "createdBy": "prashant.kohli@gig4ce.com",
+    "status": "success",
+    "rawDataId": {
+      "$oid": "654b7d620c8dd9c770e14192"
+    },
+    "source": "Web Sheet Header Mapping",
+    "statusMessage": "Success"
+  },
+  "orderDate": "08/11/2023",
+  "service": {
+    "id": "276",
+    "name": "Storage Shelf Installation service",
+    "productCategory": {
+      "name": "Furniture  Assembly",
+      "id": "100"
+    }
+  },
+  "model": {
+    "id": "928",
+    "name": "SHELF",
+    "code": "B07FD6KDK9"
+  },
+  "product": {
+    "id": "465",
+    "name": "SHELF",
+    "category": "Furniture  Assembly",
+    "classification": null,
+    "size": null
+  },
+  "brand": {
+    "id": "513",
+    "name": "Furniture Cafe"
+  },
+  "zone": {
+    "id": "4",
+    "name": "South"
+  },
+  "state": {
+    "id": "232",
+    "name": "Telangana"
+  },
+  "district": {
+    "id": "604",
+    "name": "Hyderabad"
+  },
+  "locality": {
+    "id": "",
+    "name": "",
+    "type": ""
+  },
+  "status": {
+    "orderStatus": {
+      "status": "Pending",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.452Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    },
+    "clientOrderStatus": {
+      "status": "NOT_SERVICED",
+      "createdAt": {
+        "$date": "2023-11-08T12:22:16.452Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com"
+    }
+  },
+  "customer": {
+    "city": "HYDERABAD",
+    "id": "4.89E+11",
+    "name": "Ramya",
+    "pincode": {
+      "id": "1782",
+      "pincode": "500073"
+    },
+    "locality": "Hyderabad Central 1_CA_City",
+    "address": null,
+    "state": null
+  },
+  "orderStatusLogs": [
+    {
+      "orderStatus": {
+        "status": "Pending",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.452Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      },
+      "clientOrderStatus": {
+        "status": "NOT_SERVICED",
+        "createdAt": {
+          "$date": "2023-11-08T12:22:16.452Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    }
+  ],
+  "orderId": "GF-2324-11-28901",
+  "technician": {
+    "id": "771",
+    "name": "Mudapaka Griri Prasad ",
+    "mobile": "8919718451",
+    "rating": "A",
+    "usernamealias": "",
+    "userclientcode": "A2ICBFIEX859ZT",
+    "radius": 15,
+    "allocation": {
+      "createdOn": {
+        "$date": "2023-11-08T12:27:39.010Z"
+      },
+      "createdBy": "prashant.kohli@gig4ce.com",
+      "source": "Auto"
+    },
+    "status": "Allocated"
+  },
+  "technicianAllocationLog": [
+    {
+      "status": "In Process",
+      "allocation": {
+        "source": "web",
+        "createdAt": {
+          "$date": "2023-11-08T12:26:03.575Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com"
+      }
+    },
+    {
+      "id": "771",
+      "name": "Mudapaka Griri Prasad ",
+      "mobile": "8919718451",
+      "rating": "A",
+      "usernamealias": "",
+      "userclientcode": "A2ICBFIEX859ZT",
+      "radius": 15,
+      "allocation": {
+        "createdOn": {
+          "$date": "2023-11-08T12:27:39.010Z"
+        },
+        "createdBy": "prashant.kohli@gig4ce.com",
+        "source": "Auto"
+      },
+      "status": "Allocated"
+    }
+  ]
+}]
